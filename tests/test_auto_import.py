@@ -1,6 +1,6 @@
 """auto_import module test"""
 
-from auto_import import auto_import
+from auto_import_py import auto_import
 
 
 def test_auto_import_with_real_routers():
