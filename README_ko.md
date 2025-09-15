@@ -1,4 +1,4 @@
-# Auto Import
+# Auto Import Py
 
 디렉토리 구조에서 Python 모듈을 자동으로 임포트하는 라이브러리입니다.
 
@@ -15,7 +15,8 @@
 ## 설치
 
 ```bash
-pip install auto-import
+pip install auto-import-py
+uv add auto-import-py
 ```
 
 ## 사용법

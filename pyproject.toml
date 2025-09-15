@@ -1,5 +1,5 @@
 [project]
-name = "auto-import"
+name = "auto-import-py"
 version = "0.1.0"
 description = "Auto import"
 readme = "README.md"

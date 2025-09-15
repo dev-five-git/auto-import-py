@@ -1,4 +1,4 @@
-# Auto Import
+# Auto Import Py
 
 A Python library for automatically importing modules from a directory structure.
 
@@ -15,7 +15,8 @@ English | [한국어](README_ko.md)
 ## Installation
 
 ```bash
-pip install auto-import
+pip install auto-import-py
+uv add auto-import-py
 ```
 
 ## Usage
