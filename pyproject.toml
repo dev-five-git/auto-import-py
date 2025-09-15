@@ -24,7 +24,7 @@ addopts = [
     "--tb=short",
     "--strict-markers",
     "--disable-warnings",
-    "--cov=src/auto_import",
+    "--cov=src/auto_import_py",
     "--cov-report=term-missing",
     "--cov-report=html",
     "--cov-report=xml",
